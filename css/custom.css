@@ -1,0 +1,112 @@
+body {
+  /* background-color: #092327; */
+  font-family: 'Dosis', sans-serif;
+  color: #4a4a4a;
+  margin-top: 56px;
+}
+
+.about {
+  background: #d9d9d9;
+  /* opacity: 0.7; */
+  padding: 10px;
+  border-radius: 2px;
+  /*margin-bottom: 60px;
+  margin-right: 80px; */
+}
+
+h1 {
+  font-size: 54px;
+  font-weight: 400;
+  color: white;
+  padding: 5px 5px 20px 40px;
+}
+
+h2 {
+  font-size: 34px;
+  font-weight: 300;
+  color: white;
+  padding: 10px 5px 0px 40px;
+  letter-spacing: 1px;
+}
+
+.btn-primary {
+  /* margin: 15px 5px 20px 40px; */
+  margin: 15px 10px 15px 10px;
+  padding: 10px 15px;
+  background-color: #6C8EAD;
+  border-radius: 3px;
+  border: black;
+  font-size: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #adc0d1;
+  color: white;
+}
+
+#btn-cta {
+  margin: 15px 5px 20px 40px;
+  background-color: #FF8C42;
+}
+
+.btn-gh {
+  color: #4a4a4a;
+  background-color: white;
+  border: 2px solid #6C8EAD;
+}
+
+.btn-gh:hover {
+  background-color: #adc0d1;
+  color: white;
+  border: 2px solid #6C8EAD;
+}
+
+#btn-cta:hover {
+  background: #E5BE9E;
+}
+
+.block-colour {
+  margin-top: -46px;
+  padding: 100px 5px 100px 20px;
+  background: #6C8EAD;
+}
+
+.about p {
+  font-size: 20px;
+  line-height: 1.8;
+  margin: 15px 5px;
+}
+
+.about p span a{
+  font-weight: bold;
+  color: #4a4a4a;
+}
+
+.about p span a:hover {
+  text-decoration: underline;
+  color: #4a4a4a;
+}
+
+.col-md-6 .photo {
+  padding: 0;
+}
+
+.description {
+  box-shadow: 0 4px 6px #D3D3D3;
+  margin: 15px 0;
+  border-top: 6px solid #6C8EAD;
+  padding: 10px 20px;
+}
+
+.description h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* #FFAD69
+#F5E663
+#47A8BD
+#1E3888
+#adc0d1
+#405a73
+ */
